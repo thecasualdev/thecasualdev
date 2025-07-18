@@ -1,2 +1,1 @@
-# Hello, World !! 🌏
-I make stuff
+I make stuff.
